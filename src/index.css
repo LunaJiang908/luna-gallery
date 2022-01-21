@@ -1,0 +1,20 @@
+@tailwind components;
+@tailwind utilities;
+
+a {
+  color: #282828 !important;
+}
+
+a:hover {
+  text-decoration: line-through !important;
+}
+
+* {
+  font-family: lhll;
+  color: #282828;
+}
+
+@font-face {
+  font-family: lhll;
+  src: url("/lhll.otf");
+}
