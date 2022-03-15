@@ -1,5 +1,4 @@
 import { Image } from "antd";
-import { useState } from "react";
 
 const TotalNum = 10;
 const ImagesPath: string[] = [];
